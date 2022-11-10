@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yandex.android:mobmetricalib:3.18.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b1f637ea5f94cdf09d4b76698a6a18b/jetified-mobmetricalib-3.18.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fb584fb0ce31dbe9811025acb879f94e/jetified-mobmetricalib-3.18.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b1f637ea5f94cdf09d4b76698a6a18b/jetified-mobmetricalib-3.18.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b1f637ea5f94cdf09d4b76698a6a18b/jetified-mobmetricalib-3.18.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b1f637ea5f94cdf09d4b76698a6a18b/jetified-mobmetricalib-3.18.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b1f637ea5f94cdf09d4b76698a6a18b/jetified-mobmetricalib-3.18.0/jars/libs/r-classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fb584fb0ce31dbe9811025acb879f94e/jetified-mobmetricalib-3.18.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fb584fb0ce31dbe9811025acb879f94e/jetified-mobmetricalib-3.18.0/jars/libs/r-classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fb584fb0ce31dbe9811025acb879f94e/jetified-mobmetricalib-3.18.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fb584fb0ce31dbe9811025acb879f94e/jetified-mobmetricalib-3.18.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yandex.android/mobmetricalib/3.18.0/febedaad34245288cc3875ac1b6e82e44bc14f96/mobmetricalib-3.18.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yandex.android/mobmetricalib/3.18.0/924b93554e51f8f59877b3260fdba5331584ef9/mobmetricalib-3.18.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

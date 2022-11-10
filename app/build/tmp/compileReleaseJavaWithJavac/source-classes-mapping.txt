@@ -1,0 +1,183 @@
+com/projctrfade/safdjw/ui/managetaskview/IconSpinnerItem.java
+ com.projctrfade.safdjw.ui.managetaskview.IconSpinnerItem
+com/projctrfade/safdjw/ui/tasklistview/TaskListView.java
+ com.projctrfade.safdjw.ui.tasklistview.TaskListView
+com/projctrfade/safdjw/LoaderActivity.java
+ com.projctrfade.safdjw.LoaderActivity
+ com.projctrfade.safdjw.LoaderActivity$1
+ com.projctrfade.safdjw.LoaderActivity$2
+com/projctrfade/safdjw/persistence/LocalDayStorageImpl.java
+ com.projctrfade.safdjw.persistence.LocalDayStorageImpl
+com/projctrfade/safdjw/common/Messages.java
+ com.projctrfade.safdjw.common.Messages
+com/projctrfade/safdjw/ui/tasklistview/ITaskListViewContract.java
+ com.projctrfade.safdjw.ui.tasklistview.ITaskListViewContract
+ com.projctrfade.safdjw.ui.tasklistview.ITaskListViewContract$View
+ com.projctrfade.safdjw.ui.tasklistview.ITaskListViewContract$ViewModel
+com/projctrfade/safdjw/domain/Hour.java
+ com.projctrfade.safdjw.domain.Hour
+com/projctrfade/safdjw/ui/managehourview/HourViewEvent.java
+ com.projctrfade.safdjw.ui.managehourview.HourViewEvent
+ com.projctrfade.safdjw.ui.managehourview.HourViewEvent$Event
+com/projctrfade/safdjw/domain/IDayStorage.java
+ com.projctrfade.safdjw.domain.IDayStorage
+com/projctrfade/safdjw/ui/tasklistview/TaskGridItemView.java
+ com.projctrfade.safdjw.ui.tasklistview.TaskGridItemView
+com/projctrfade/safdjw/domain/constants/HOUR_MODE.java
+ com.projctrfade.safdjw.domain.constants.HOUR_MODE
+com/projctrfade/safdjw/persistence/PreloadData.java
+ com.projctrfade.safdjw.persistence.PreloadData
+com/projctrfade/safdjw/ui/managehourview/ToggleHourView.java
+ com.projctrfade.safdjw.ui.managehourview.ToggleHourView
+com/projctrfade/safdjw/ui/managetaskview/TaskViewLogic.java
+ com.projctrfade.safdjw.ui.managetaskview.TaskViewLogic
+ com.projctrfade.safdjw.ui.managetaskview.TaskViewLogic$1
+ com.projctrfade.safdjw.ui.managetaskview.TaskViewLogic$2
+ com.projctrfade.safdjw.ui.managetaskview.TaskViewLogic$3
+com/projctrfade/safdjw/common/IconUtility.java
+ com.projctrfade.safdjw.common.IconUtility
+ com.projctrfade.safdjw.common.IconUtility$1
+com/projctrfade/safdjw/ui/dayview/DayViewEvent.java
+ com.projctrfade.safdjw.ui.dayview.DayViewEvent
+ com.projctrfade.safdjw.ui.dayview.DayViewEvent$Event
+com/projctrfade/safdjw/ui/dayview/DayListItemView.java
+ com.projctrfade.safdjw.ui.dayview.DayListItemView
+com/projctrfade/safdjw/ui/managetaskview/buildlogic/TaskViewInjector.java
+ com.projctrfade.safdjw.ui.managetaskview.buildlogic.TaskViewInjector
+com/projctrfade/safdjw/common/Continuation.java
+ com.projctrfade.safdjw.common.Continuation
+com/projctrfade/safdjw/ui/dayview/DayViewUpdate.java
+ com.projctrfade.safdjw.ui.dayview.DayViewUpdate
+com/projctrfade/safdjw/ui/managehourview/IHourContract.java
+ com.projctrfade.safdjw.ui.managehourview.IHourContract
+ com.projctrfade.safdjw.ui.managehourview.IHourContract$View
+ com.projctrfade.safdjw.ui.managehourview.IHourContract$ViewModel
+com/projctrfade/safdjw/ui/managehourview/HourViewLogic.java
+ com.projctrfade.safdjw.ui.managehourview.HourViewLogic
+ com.projctrfade.safdjw.ui.managehourview.HourViewLogic$1
+ com.projctrfade.safdjw.ui.managehourview.HourViewLogic$2
+ com.projctrfade.safdjw.ui.managehourview.HourViewLogic$3
+ com.projctrfade.safdjw.ui.managehourview.HourViewLogic$4
+com/projctrfade/safdjw/ui/dayview/DayListItemViewMaker.java
+ com.projctrfade.safdjw.ui.dayview.DayListItemViewMaker
+ com.projctrfade.safdjw.ui.dayview.DayListItemViewMaker$1
+com/projctrfade/safdjw/ui/managehourview/HourViewModel.java
+ com.projctrfade.safdjw.ui.managehourview.HourViewModel
+com/projctrfade/safdjw/common/BaseViewLogic.java
+ com.projctrfade.safdjw.common.BaseViewLogic
+com/projctrfade/safdjw/ui/dayview/DayViewModel.java
+ com.projctrfade.safdjw.ui.dayview.DayViewModel
+com/projctrfade/safdjw/ui/managehourview/HourActivity.java
+ com.projctrfade.safdjw.ui.managehourview.HourActivity
+com/projctrfade/safdjw/ui/tasklistview/TasksListViewEvent.java
+ com.projctrfade.safdjw.ui.tasklistview.TasksListViewEvent
+ com.projctrfade.safdjw.ui.tasklistview.TasksListViewEvent$Event
+com/projctrfade/safdjw/StorageServiceLocator.java
+ com.projctrfade.safdjw.StorageServiceLocator
+com/projctrfade/safdjw/domain/constants/BASIC_TASKS.java
+ com.projctrfade.safdjw.domain.constants.BASIC_TASKS
+com/projctrfade/safdjw/domain/constants/QUARTER.java
+ com.projctrfade.safdjw.domain.constants.QUARTER
+com/projctrfade/safdjw/common/TimeFormatUtility.java
+ com.projctrfade.safdjw.common.TimeFormatUtility
+ com.projctrfade.safdjw.common.TimeFormatUtility$1
+com/projctrfade/safdjw/ui/managetaskview/ITaskViewContract.java
+ com.projctrfade.safdjw.ui.managetaskview.ITaskViewContract
+ com.projctrfade.safdjw.ui.managetaskview.ITaskViewContract$View
+ com.projctrfade.safdjw.ui.managetaskview.ITaskViewContract$ViewModel
+com/projctrfade/safdjw/ui/dayview/DayViewLogic.java
+ com.projctrfade.safdjw.ui.dayview.DayViewLogic
+ com.projctrfade.safdjw.ui.dayview.DayViewLogic$1
+ com.projctrfade.safdjw.ui.dayview.DayViewLogic$2
+ com.projctrfade.safdjw.ui.dayview.DayViewLogic$3
+com/projctrfade/safdjw/common/Subscriber.java
+ com.projctrfade.safdjw.common.Subscriber
+com/projctrfade/safdjw/domain/constants/Extras.java
+ com.projctrfade.safdjw.domain.constants.Extras
+com/projctrfade/safdjw/ui/tasklistview/TaskListActivity.java
+ com.projctrfade.safdjw.ui.tasklistview.TaskListActivity
+com/projctrfade/safdjw/ui/managetaskview/IconSpinnerAdapter.java
+ com.projctrfade.safdjw.ui.managetaskview.IconSpinnerAdapter
+com/projctrfade/safdjw/ui/managetaskview/TaskViewEvent.java
+ com.projctrfade.safdjw.ui.managetaskview.TaskViewEvent
+ com.projctrfade.safdjw.ui.managetaskview.TaskViewEvent$Event
+com/projctrfade/safdjw/domain/QuarterHour.java
+ com.projctrfade.safdjw.domain.QuarterHour
+com/projctrfade/safdjw/ui/dayview/LIST_ITEM_TYPE.java
+ com.projctrfade.safdjw.ui.dayview.LIST_ITEM_TYPE
+com/projctrfade/safdjw/ui/managetaskview/TaskViewModel.java
+ com.projctrfade.safdjw.ui.managetaskview.TaskViewModel
+com/projctrfade/safdjw/common/Publisher.java
+ com.projctrfade.safdjw.common.Publisher
+com/projctrfade/safdjw/ui/managehourview/buildlogic/HourViewInjector.java
+ com.projctrfade.safdjw.ui.managehourview.buildlogic.HourViewInjector
+com/projctrfade/safdjw/domain/constants/ICON.java
+ com.projctrfade.safdjw.domain.constants.ICON
+com/projctrfade/safdjw/persistence/LocalTaskStorageImpl.java
+ com.projctrfade.safdjw.persistence.LocalTaskStorageImpl
+com/projctrfade/safdjw/ui/dayview/DayView.java
+ com.projctrfade.safdjw.ui.dayview.DayView
+com/projctrfade/safdjw/ui/dayview/DayActivity.java
+ com.projctrfade.safdjw.ui.dayview.DayActivity
+com/projctrfade/safdjw/BuildConfig.java
+ com.projctrfade.safdjw.BuildConfig
+com/projctrfade/safdjw/domain/constants/COLOR.java
+ com.projctrfade.safdjw.domain.constants.COLOR
+com/projctrfade/safdjw/ui/managetaskview/ColorPickerView.java
+ com.projctrfade.safdjw.ui.managetaskview.ColorPickerView
+ com.projctrfade.safdjw.ui.managetaskview.ColorPickerView$ColorPickerViewClickHandler
+com/projctrfade/safdjw/common/ColorUtility.java
+ com.projctrfade.safdjw.common.ColorUtility
+ com.projctrfade.safdjw.common.ColorUtility$1
+com/projctrfade/safdjw/domain/ITaskStorage.java
+ com.projctrfade.safdjw.domain.ITaskStorage
+com/projctrfade/safdjw/ui/tasklistview/TaskGridItemViewMaker.java
+ com.projctrfade.safdjw.ui.tasklistview.TaskGridItemViewMaker
+com/projctrfade/safdjw/ui/dayview/DayAdapter.java
+ com.projctrfade.safdjw.ui.dayview.DayAdapter
+ com.projctrfade.safdjw.ui.dayview.DayAdapter$1
+ com.projctrfade.safdjw.ui.dayview.DayAdapter$BaseViewHolder
+ com.projctrfade.safdjw.ui.dayview.DayAdapter$DayAdapterEventHandler
+ com.projctrfade.safdjw.ui.dayview.DayAdapter$FourTaskViewHolder
+ com.projctrfade.safdjw.ui.dayview.DayAdapter$SingleTaskViewHolder
+ com.projctrfade.safdjw.ui.dayview.DayAdapter$ThreeTaskViewHolder
+ com.projctrfade.safdjw.ui.dayview.DayAdapter$TwoTaskViewHolder
+com/projctrfade/safdjw/ui/managetaskview/TaskView.java
+ com.projctrfade.safdjw.ui.managetaskview.TaskView
+ com.projctrfade.safdjw.ui.managetaskview.TaskView$1
+com/projctrfade/safdjw/ui/tasklistview/TaskListViewModel.java
+ com.projctrfade.safdjw.ui.tasklistview.TaskListViewModel
+com/projctrfade/safdjw/ApplicationExecutors.java
+ com.projctrfade.safdjw.ApplicationExecutors
+ com.projctrfade.safdjw.ApplicationExecutors$1
+ com.projctrfade.safdjw.ApplicationExecutors$MainThreadExecutor
+com/projctrfade/safdjw/ui/managehourview/HourView.java
+ com.projctrfade.safdjw.ui.managehourview.HourView
+ com.projctrfade.safdjw.ui.managehourview.HourView$1
+com/projctrfade/safdjw/domain/Tasks.java
+ com.projctrfade.safdjw.domain.Tasks
+com/projctrfade/safdjw/ui/tasklistview/buildlogic/TaskListViewInjector.java
+ com.projctrfade.safdjw.ui.tasklistview.buildlogic.TaskListViewInjector
+com/projctrfade/safdjw/ui/dayview/IDayViewContract.java
+ com.projctrfade.safdjw.ui.dayview.IDayViewContract
+ com.projctrfade.safdjw.ui.dayview.IDayViewContract$View
+ com.projctrfade.safdjw.ui.dayview.IDayViewContract$ViewModel
+com/projctrfade/safdjw/ui/dayview/buildlogic/DayViewInjector.java
+ com.projctrfade.safdjw.ui.dayview.buildlogic.DayViewInjector
+com/projctrfade/safdjw/domain/Task.java
+ com.projctrfade.safdjw.domain.Task
+com/projctrfade/safdjw/ui/managetaskview/TaskActivity.java
+ com.projctrfade.safdjw.ui.managetaskview.TaskActivity
+com/projctrfade/safdjw/ui/tasklistview/TaskListViewLogic.java
+ com.projctrfade.safdjw.ui.tasklistview.TaskListViewLogic
+ com.projctrfade.safdjw.ui.tasklistview.TaskListViewLogic$1
+ com.projctrfade.safdjw.ui.tasklistview.TaskListViewLogic$2
+com/projctrfade/safdjw/domain/Day.java
+ com.projctrfade.safdjw.domain.Day
+com/projctrfade/safdjw/ui/tasklistview/TaskGridItemViewAdapter.java
+ com.projctrfade.safdjw.ui.tasklistview.TaskGridItemViewAdapter
+ com.projctrfade.safdjw.ui.tasklistview.TaskGridItemViewAdapter$TaskGridAdapterCallback
+com/projctrfade/safdjw/ui/managehourview/HourToggleView.java
+ com.projctrfade.safdjw.ui.managehourview.HourToggleView
+ com.projctrfade.safdjw.ui.managehourview.HourToggleView$1
+ com.projctrfade.safdjw.ui.managehourview.HourToggleView$ToggleViewClickHandler

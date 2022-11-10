@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.ads:ads-identifier:1.0.0-alpha04@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a7db254b7a3e7a4ca36588ee1b294fd/jetified-ads-identifier-1.0.0-alpha04/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a7db254b7a3e7a4ca36588ee1b294fd/jetified-ads-identifier-1.0.0-alpha04/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a7db254b7a3e7a4ca36588ee1b294fd/jetified-ads-identifier-1.0.0-alpha04/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4611095a18a7507841bd5a27675e9e47/jetified-ads-identifier-1.0.0-alpha04/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4611095a18a7507841bd5a27675e9e47/jetified-ads-identifier-1.0.0-alpha04/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4611095a18a7507841bd5a27675e9e47/jetified-ads-identifier-1.0.0-alpha04/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.ads/ads-identifier/1.0.0-alpha04/9e6b5560d51851154d4b4fa91286baa70fdaceef/ads-identifier-1.0.0-alpha04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
